@@ -30,7 +30,7 @@ struct ContentView: View {
             
                 .animation(/*@START_MENU_TOKEN@*/.easeIn/*@END_MENU_TOKEN@*/, value: /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Value@*/0/*@END_MENU_TOKEN@*/)
             Button ("Click Me To Learn More!") {
-                textTitle = "Hi! I'm Maddie and I'm from Massachusetts! I play multiple instruments, and enjoy listening to music. I have a dog named 'Tokki' meaning bunny in Korean. My best friend (pictured above) is Talia!"
+                textTitle = "Hi! I'm Maddie and I'm from Massachusetts! I play multiple instruments, and enjoy listening to music. I have a dog named 'Tokki' meaning bunny in Korean. My best friend (pictured above) is Talia! <3 :)"
             }
             .buttonStyle(.borderedProminent)
             .foregroundColor(.white)
